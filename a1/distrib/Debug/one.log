@@ -1,0 +1,9 @@
+﻿  surf.cpp
+surf.cpp(37): warning C4018: '<': signed/unsigned mismatch
+surf.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+surf.cpp(42): warning C4018: '<': signed/unsigned mismatch
+surf.cpp(45): warning C4018: '<': signed/unsigned mismatch
+surf.cpp(89): warning C4018: '<': signed/unsigned mismatch
+surf.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  one.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\one_vs\distrib\Debug\one.exe
+  one.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\one_vs\distrib\Debug\one.pdb (Full PDB)

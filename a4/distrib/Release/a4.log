@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\yingjie\desktop\term7\gnv\a4\distrib\Group.h(34): warning C4018: '<': signed/unsigned mismatch
+main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  a4.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\a4\distrib\Release\a4.exe
+  a4.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\a4\distrib\Release\a4.pdb (Full PDB)

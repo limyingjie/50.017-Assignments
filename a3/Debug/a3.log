@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(92): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+main.cpp(183): warning C4060: switch statement contains no 'case' or 'default' labels
+  a3.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\a3\Debug\a3.exe
+  a3.vcxproj -> C:\Users\YingJie\Desktop\term7\GNV\a3\Debug\a3.pdb (Full PDB)
